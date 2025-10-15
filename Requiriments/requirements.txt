@@ -1,0 +1,23 @@
+# Core libraries
+pandas
+numpy
+
+# Data visualization and analysis
+matplotlib
+seaborn
+autoviz
+
+# Data profiling
+ydata-profiling
+
+# Machine learning
+pycaret
+lightgbm
+xgboost
+scikit-learn
+
+# Optional: H2O (for AutoML and clustering)
+h2o
+
+# Utilities
+jupyter
